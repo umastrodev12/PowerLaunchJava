@@ -1,0 +1,7 @@
+name: PowerLaunchJavaLauncher
+version: 1.2.0 # Essa não é uma versão de minecraft
+jdk-version: jdk 21
+
+server: #"Put your server name here!"
+version: #"Put your Minecraft Server version here!"
+minecraft-version: "Java"
