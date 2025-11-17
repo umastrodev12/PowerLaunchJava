@@ -27,6 +27,14 @@ Eu utilizei várias dependências no código-fonte do projeto, além de que, se 
 | [Paper](https://github.com/PaperMC/Paper) | Mojang ([Minecraft Vanilla](https://minecraft.net/pt-br/download/server)), SpigotMC ([Spigot](https://www.spigotmc.org/)), Paper |
 | [DreamsBakery](https://github.com/DreamsBakeryMC/DreamsBakery) | umastrodev12 |
 
+Coloque isso no seu settings.gradle:
+```gradle
+dependencies {
+    compileOnly("org.spigotmc:spigot-api:1.21.8-R0.1-SNAPSHOT")
+    implementation 'net.perfect.tea.dreamsbakery.launch:1.0'
+}    implementation 'net.dreamsbakery.mc.powerlaunchjava.plugin:1.0'
+    implementation 'net.umastrodev.dreamsbakery.java.launch:1.0'
+```
 
 ## 📄 Licença
 Este projeto está licenciado sobre a [Mozilla Public License v2.0](LICENSE), aqui está listado o que você pode, deve e não pode fazer:
