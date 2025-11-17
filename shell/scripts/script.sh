@@ -1,0 +1,1 @@
+echo "All of the files and the plugin are configurated!"
