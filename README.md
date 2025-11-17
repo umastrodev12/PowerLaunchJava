@@ -2,7 +2,7 @@
 
 
 <h1 align="center">PowerLauncherJava</h1>
-💻 Um Launcher para Servidores de Minecraft Java!
+<h2 align="center">💻 Um Launcher para Servidores de Minecraft Java!</h2>
 
 ## Oque é um Launcher?
 Um Launcher, basicamente é um lançador, tipo: Você cria um arquivo Chamado `MeuProjetoLauncher.java` e deixar isso no **GitHub**, as pessoas vão saber que aquilo vai ser o que seu projeto vai fazer quando ele ligar!
