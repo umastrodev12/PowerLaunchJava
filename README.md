@@ -54,3 +54,11 @@ Este projeto está licenciado sobre a [Mozilla Public License v2.0](LICENSE), aq
 
 1.  **Não Usar Marcas para Endosso:** Você não pode usar nomes de contribuidores ou licenciadores (como "Mozilla") para endossar ou promover seu produto derivado sem a permissão expressa deles.
 2.  **Não Aplicar Licença Diferente ao Código MPL:** Você não pode licenciar o código-fonte que está sob a MPL-2.0 (nem suas modificações) sob uma licença diferente, **a menos** que esteja distribuindo-o como parte de um Programa Maior compatível (e mesmo assim, o código MPL-2.0 deve permanecer sob essa licença).
+
+***
+
+© umastrodev12 - Todos os Direitos Reservados.
+
+© PerfectTea - Todos os Direitos Reservados.
+
+© DreamsBakery - Todos os Direitos Reservados
