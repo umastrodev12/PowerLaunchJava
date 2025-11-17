@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Minecraft-Plugin-green)
 
-### aceito pull requests!
+
 <h1 align="center">PowerLauncherJava</h1>
 💻 Um Launcher para Servidores de Minecraft Java!
 
