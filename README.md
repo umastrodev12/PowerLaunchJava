@@ -13,7 +13,7 @@ Basicamente, deixarei o código neste repositório, certo? Ok, mas você deve se
 - Lembre-se, a licença é a [Mozilla Public License 2.0](LICENSE), veja o arquivo [LICENSE](LICENSE) para mais informações
 ### 📝Instruções
 - Neste projeto, existe **workflows** específicos para compilar, a maioria dos Workflows são da [PerfectTea](https://github.com/PerfectTeaBR) e da [DreamsBakeryMC](https://github.com/DreamsBakeryMC)
-- Tenha o `JDK 8` (ou superior) instalado na sua máquina.
+- Tenha o `JDK 21` (ou superior) instalado na sua máquina.
 - Tenha o IntelliJ IDEA instalado na sua máquina.
 - Tenha um servidor de Minecraft rodando [Paper](https://github.com/PaperMC/Paper) na última versão disponível.
 - 🎊 Pronto! Agora é só utilizar o projeto e se divertir!
